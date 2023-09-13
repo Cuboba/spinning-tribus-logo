@@ -1,4 +1,6 @@
-# Three.js Journey
+# Spinning Tribus Logo
+
+A test Three.JS project that displays a spinning Tribus logo with orbit controls.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
