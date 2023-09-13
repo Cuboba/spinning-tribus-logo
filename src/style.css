@@ -1,0 +1,35 @@
+*
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    background: #0000ff;
+}
+
+.HTMLtitle
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    font-family: 'AtHaus', sans-serif;
+    color: #EBF0FA;
+    font-size: 4vmin;
+    text-align: center;
+    pointer-events: none;
+}
